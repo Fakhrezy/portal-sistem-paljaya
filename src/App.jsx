@@ -4,7 +4,7 @@ const cards = [
 	{ title: "NETCAST", url: "http://192.168.1.123/netcast/" },
 	{ title: "SUNFISH", url: "https://kepegawaian.paljaya.com/sf6/" },
 	{
-		title: "MANAGEMENT ASSET",
+		title: "ASSET MANAGEMENT",
 		url: "http://perumdapaljaya.assetlive.net/paljaya/profile/login"
 	},
 	{ title: "SIPAS", url: "https://paljaya.sipas.id/" },
