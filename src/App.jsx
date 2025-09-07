@@ -12,7 +12,7 @@ const cards = [
 		title: "SISTEM INFORMASI GEOGRAFIS",
 		url: "https://paljaya.net/eam/profile/login"
 	},
-	{ title: "SIM LTT", url: "http://103.30.246.72/" },
+	{ title: "SIM LLT", url: "http://103.30.246.72/" },
 	{ title: "E-PROCUREMENT", url: "https://eproc.paljaya.com/" },
 	{ title: "SIMLAB", url: "https://eproc.paljaya.com/" },
 	{ title: "PALJAYA WEB", url: "https://paljaya.com/" }
