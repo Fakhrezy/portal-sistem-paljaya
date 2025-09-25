@@ -1,7 +1,7 @@
 import "./App.css";
 
 const cards = [
-	{ title: "NETCAST", url: "http://192.168.1.123/netcast/" },
+	{ title: "DYNAMIC 365 BC", url: "http://192.168.1.89:24000/BC240/" },
 	{ title: "SUNFISH", url: "https://kepegawaian.paljaya.com/sf6/" },
 	{
 		title: "ASSET MANAGEMENT",
@@ -28,7 +28,7 @@ function App() {
 					className="paljaya-logo"
 				/>
 				<h2>
-					PORTAL SISTEM PERUMDA PALJAYA
+					PALJAYA ENTERPRISE
 					<img
 						src="/jakarta.png"
 						alt="Jakarta Logo"
@@ -41,7 +41,6 @@ function App() {
 			</header>
 			<h1 style={{ marginTop: 0 }}>PORTAL SISTEM PALJAYA</h1>
 			<main>
-				<p>Selamat datang di portal sistem PALJAYA.</p>
 				<div className="card-grid">
 					{cards.map((card, idx) => (
 						<a
