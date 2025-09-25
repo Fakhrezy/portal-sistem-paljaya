@@ -5,7 +5,7 @@ import App from "./App.jsx";
 
 // Set document title
 if (typeof document !== "undefined") {
-	document.title = "Portal PALJAYA";
+	document.title = "PALJAYA ENTERPRISE";
 }
 
 createRoot(document.getElementById("root")).render(

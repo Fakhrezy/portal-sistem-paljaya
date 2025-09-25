@@ -39,7 +39,7 @@ function App() {
 					/>
 				</h2>
 			</header>
-			<h1 style={{ marginTop: 0 }}>PORTAL SISTEM PALJAYA</h1>
+			<h1 style={{ marginTop: 0 }}>PALJAYA ENTERPRISE</h1>
 			<main>
 				<div className="card-grid">
 					{cards.map((card, idx) => (
