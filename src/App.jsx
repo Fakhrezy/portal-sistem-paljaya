@@ -3,18 +3,12 @@ import "./App.css";
 const cards = [
 	{ title: "DYNAMIC 365 BC", url: "http://192.168.1.89:24000/BC240/" },
 	{ title: "SUNFISH", url: "https://kepegawaian.paljaya.com/sf6/" },
-	{
-		title: "ASSET MANAGEMENT",
-		url: "http://perumdapaljaya.assetlive.net/paljaya/profile/login"
-	},
+	{ title: "ASSET MANAGEMENT", url: "http://perumdapaljaya.assetlive.net/paljaya/profile/login"},
 	{ title: "SIPAS", url: "https://paljaya.sipas.id/" },
-	{
-		title: "SISTEM INFORMASI GEOGRAFIS",
-		url: "https://paljaya.net/eam/profile/login"
-	},
+	{ title: "SISTEM INFORMASI GEOGRAFIS",url: "https://paljaya.net/eam/profile/login"},
 	{ title: "SIM LLT", url: "http://103.30.246.72/" },
 	{ title: "E-PROCUREMENT", url: "https://eproc.paljaya.com/" },
-	{ title: "SIMLAB", url: "https://eproc.paljaya.com/" },
+	{ title: "SIMLAB", url: "https://simlab-pdpal.pasolusi.com/login" },
 	{ title: "PALJAYA WEB", url: "https://paljaya.com/" }
 ];
 
