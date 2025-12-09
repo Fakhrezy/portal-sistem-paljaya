@@ -68,7 +68,6 @@ function App() {
 						</a>
 					</span>
 					<div className="footer-social">
-						<span>Social Media:</span>
 						<a
 							href="https://instagram.com/pdpaljaya"
 							target="_blank"
